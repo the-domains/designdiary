@@ -4,8 +4,29 @@
         <description><![CDATA[Vizen's Collection of Design Articles]]></description>
         <link>http://designdiary.vizendesign.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 17:05:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2016 17:05:38 GMT</lastBuildDate>
         <atom:link href="http://designdiary.vizendesign.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>short</p>]]></description>
+            <link>http://designdiary.vizendesign.com/short/index.html</link>
+            <guid isPermaLink="false">c7790701-de99-42f8-8244-fa564041923d</guid>
+            <pubDate>Wed, 08 Jun 2016 17:05:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Design Methods - toolkit Design Method Toolkit for multidisciplinary design research, developed by MediaLAB Amsterdam]]></title>
+            <description><![CDATA[<article><h1>Design Methods - toolkit Design Method Toolkit for multidisciplinary design research, developed by MediaLAB Amsterdam</h1><p>A one-on-one interview is an interview between a researcher and a participant in a face-to-face situation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3093e8e7d6c816e96276c5ec6b6819b6ad5bc591.png"></article>]]></description>
+            <link>http://medialabamsterdam.com/toolkit/</link>
+            <guid isPermaLink="false">1af4ad7a-e012-45f6-814b-83e1dd9b1efe</guid>
+            <pubDate>Wed, 08 Jun 2016 17:05:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nike: Find Your Greatness]]></title>
+            <description><![CDATA[<article><h1>Nike: Find Your Greatness</h1><p>Nike's 2012 "Find Your Greatness" campaign. Bravo!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/105a9608a7146511054e38eb6d6cf071a4877fb4.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=WYP9AGtLvRg</link>
+            <guid isPermaLink="false">77984ba7-de64-4158-b095-33daec9b46a7</guid>
+            <pubDate>Wed, 08 Jun 2016 17:05:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Liam - An Innovation Story]]></title>
             <description><![CDATA[<article><h1>Liam - An Innovation Story</h1><p>True innovation means considering what happens to a product at every stage of its life cycle. Liam disassembles your iPhone when it's no longer functioning, so the materials inside can live on. http://apple.co/1SdvFbJ</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/725df7b1ed632e2960d505023c0fb12de5728f15.jpg"></article>]]></description>
@@ -54,27 +75,6 @@
             <link>http://designdiary.vizendesign.com/becomes/index.html</link>
             <guid isPermaLink="false">2f579375-6de2-4143-b8ff-f34822928f00</guid>
             <pubDate>Wed, 08 Jun 2016 17:05:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What would happen if you didn't sleep? - Claudia Aguirre]]></title>
-            <description><![CDATA[<article><h1>What would happen if you didn't sleep? - Claudia Aguirre</h1><p>View full lesson: http://ed.ted.com/lessons/what-would-happen-if-you-didn-t-sleep-claudia-aguirre In the United States, it's estimated that 30 percent of adults and 66 percent of adolescents are regularly sleep-deprived. This isn't just a minor inconvenience: staying awake can cause serious bodily harm. Claudia Aguirre shows what happens to your body and brain when you skip sleep.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c9bd4c817c33d6fa2345cf004da590c9141a133.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=dqONk48l5vY</link>
-            <guid isPermaLink="false">a419eb0e-89d9-42bd-9f8f-a717236897d7</guid>
-            <pubDate>Wed, 08 Jun 2016 17:05:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>inside</p>]]></description>
-            <link>http://designdiary.vizendesign.com/inside/index.html</link>
-            <guid isPermaLink="false">a7e41663-433f-45d9-93e0-8526d2021e1d</guid>
-            <pubDate>Wed, 08 Jun 2016 17:05:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why I Am Not a Maker]]></title>
-            <description><![CDATA[<article><h1>Why I Am Not a Maker</h1><p>When tech culture only celebrates creation, it risks ignoring those who teach, criticize, and take care of others. Please consider disabling it for our site, or supporting our work in one of these ways Subscribe Now ></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6293eedc08c9b0b5030148698db15ce26fa184d.jpg"></article>]]></description>
-            <link>http://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/</link>
-            <guid isPermaLink="false">0fabfd81-639b-4b97-b980-f2b325fb75a3</guid>
-            <pubDate>Wed, 08 Jun 2016 17:05:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
