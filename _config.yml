@@ -1,7 +1,7 @@
 name: designdiary
 favicon: null
-layout_spectrum: 0.4575010787229985
-typography_spectrum: 0.7203895275015384
+layout_spectrum: 0.753
+typography_spectrum: 0.15609
 title: "Vizen's Collection of Design Articles"
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.625767613761127
-  lightness: 0.703982055420056
-  saturation: 0.9223994999192655
+  brandStrength: 0.3125
+  lightness: 0.375
+  saturation: 0.6875
   rhythmicContrast: 0.9538681115955114
 purpose: []
