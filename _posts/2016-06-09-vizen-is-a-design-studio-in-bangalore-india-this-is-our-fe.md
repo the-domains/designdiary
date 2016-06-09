@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Vizen is a design studio in Bangalore, India. This is our feed for interesting
   reads across the web that help us understand design and strategy better. 
-datePublished: '2016-06-09T04:17:28.755Z'
-dateModified: '2016-06-09T04:17:10.980Z'
+datePublished: '2016-06-09T04:23:36.072Z'
+dateModified: '2016-06-09T04:18:39.127Z'
 title: ''
 author: []
 sourcePath: >-
