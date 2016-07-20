@@ -1,7 +1,7 @@
 name: designdiary
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.75376
+layout_spectrum: 0.3582875004503876
+typography_spectrum: 0.47904844488948584
 title: Design Diary
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#404040'
-    - '#ffffff'
-    - '#bdd556'
-    - '#f4973f'
-    - '#e71f76'
-  brandStrength: 0.25
-  lightness: 0.25
-  saturation: 0.0625
-  rhythmicContrast: 1
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+  brandStrength: 0.5662529552355409
+  lightness: 0.3128918979782611
+  saturation: 0.4086778287310153
+  rhythmicContrast: 0.5170252581592649
 purpose: []
