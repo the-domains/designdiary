@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Olympic Pictograms Through the Ages
+    id: 909117f5-cac7-4fbb-9dbf-40ba13cdc5eb
+    type: content
 favicon: null
 title: Design Diary
 description: adsdasd
