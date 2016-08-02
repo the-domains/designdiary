@@ -1,20 +1,4 @@
-name: designdiary
-favicon: null
-layout_spectrum: 0.3582875004503876
 typography_spectrum: 0.47904844488948584
-title: Design Diary
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#B9121B'
@@ -26,4 +10,21 @@ color:
   lightness: 0.3128918979782611
   saturation: 0.4086778287310153
   rhythmicContrast: 0.5170252581592649
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.3582875004503876
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: designdiary
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Design Diary
+description: adsdasd
 purpose: []
