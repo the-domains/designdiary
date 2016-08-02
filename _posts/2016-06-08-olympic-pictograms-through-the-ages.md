@@ -15,15 +15,18 @@ description: >-
   evolution of the tiny symbols for each Olympic sport since their appearance in
   1936.
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=yHWlEU8zqUE'
 title: Olympic Pictograms Through the Ages
-datePublished: '2016-06-08T17:05:08.710Z'
-dateModified: '2016-06-08T16:50:47.997Z'
-starred: false
+datePublished: '2016-08-02T09:22:47.995Z'
+dateModified: '2016-08-02T09:22:47.011Z'
 sourcePath: _posts/2016-06-08-olympic-pictograms-through-the-ages.md
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
+inLanguage: null
+authors: []
+via: {}
+starred: false
+url: olympic-pictograms-through-the-ages/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
